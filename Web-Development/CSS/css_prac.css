@@ -1,0 +1,40 @@
+/*Dot repreent class*/
+.firstDiv{
+  color: green;
+}
+.Second{
+  color: red;
+}*/
+/*ID==#*/
+#singledoubt{
+  color: blue;
+  text-decoration: line-through;
+}
+/* '*'==Select all elements and alters them*/
+
+
+*{
+  color:black
+}
+
+h3+ul{
+  border: 6px dotted purple;
+}
+
+li a{
+  color:violet;
+}
+li a[href="www.facebook.com"]{
+  color: Brown;
+  border:3px solid orange;
+}
+======================================================================================
+li{
+  color:red;
+}
+.topitems{
+  color:blue;
+}
+#two{
+  border:3px solid black;
+}
