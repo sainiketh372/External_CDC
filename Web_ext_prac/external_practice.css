@@ -1,0 +1,34 @@
+
+body{
+  background:#41228e;
+}
+h1{
+  border:3px dashed #A62333;
+  background: yellow;
+}
+b{
+  color:white;
+}
+div{
+  color: white;
+  text-decoration: 1px underline white;
+
+}
+label{
+  color:white;
+  text-decoration: 1px underline white
+}
+#button{
+  color: yellow;
+  text-decoration: yellow;
+}
+button{
+  background-color: #4CAF50; /* Green */
+  border-radius: 0px 10px;
+  color: white;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
